@@ -1,8 +1,17 @@
 body {
   padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  font-family: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: red;
 }
 
 a {
   color: #00B7FF;
+}
+
+.index-view {
+  background: url(../images/cinema.jpeg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
